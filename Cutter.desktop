@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Cutter
+Comment=Reverse Engeneiring tool
+Exec=/home/clementp/Documents/Cutter/Cutter.AppImage
+Icon=/home/clementp/Documents/Cutter/Cutter.ico
+Terminal=false
+Type=Application
